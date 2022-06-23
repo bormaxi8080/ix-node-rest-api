@@ -1,0 +1,82 @@
+{
+  "insured_property_types": [
+    {
+      "insured_property_type": "רכב",
+      "description": "Автомобиль",
+      "insured_event_types": [
+        {
+          "insured_event_type": "תאונת דרכים",
+          "description": "Авария"
+        },
+        {
+          "insured_event_type": "פריצה",
+          "description": "Прокол шины"
+        },
+        {
+          "insured_event_type": "גניבה",
+          "description": "Угон"
+        }
+      ]
+    },
+    {
+      "insured_property_type": "דירה",
+      "description": "Жилая недвижимость",
+      "insured_event_types": [
+        {
+          "insured_event_type": "מים",
+          "description": "Наводнение"
+        },
+        {
+          "insured_event_type": "אש",
+          "description": "Пожар"
+        },
+        {
+          "insured_event_type": "פריצה / גניבה",
+          "description": "Взлом/кража"
+        },
+        {
+          "insured_event_type": "צד שלישי",
+          "description": "Третье лицо"
+        },
+        {
+          "insured_event_type": "אחר",
+          "description": "Прочее"
+        },
+        {
+          "insured_event_type": "נזקי טבע",
+          "description": "Стихийное бедствие"
+        }
+      ]
+    },
+    {
+      "insured_property_type": "עסק",
+      "description": "Бизнес",
+      "insured_event_types": [
+        {
+          "insured_event_type": "מים",
+          "description": "Наводнение"
+        },
+        {
+          "insured_event_type": "אש",
+          "description": "Пожар"
+        },
+        {
+          "insured_event_type": "פריצה / גניבה",
+          "description": "Взлом/кража"
+        },
+        {
+          "insured_event_type": "צד שלישי",
+          "description": "Третье лицо"
+        },
+        {
+          "insured_event_type": "אחר",
+          "description": "Прочее"
+        },
+        {
+          "insured_event_type": "נזקי טבע",
+          "description": "Стихийное бедствие"
+        }
+      ]
+    }
+  ]
+}

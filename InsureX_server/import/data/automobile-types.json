@@ -1,0 +1,24 @@
+{
+  "automobile_types": [
+    {
+      "automobile_type": "פרטי ומסחרי עד 3.5 טון",
+      "description": "Личный и корпоративный транспорт массой до 3.5 тонн"
+    },
+    {
+      "automobile_type": "משאית",
+      "description": "Грузовики"
+    },
+    {
+      "automobile_type": "אופנוע",
+      "description": "Мотоциклы"
+    },
+    {
+      "automobile_type": "רכב ציבורי",
+      "description": "Общественный транспорт"
+    },
+    {
+      "automobile_type": "צ.מ.ה ( ציוד מכני הנדסי )",
+      "description": "Грузоподъемники и похожие"
+    }
+  ]
+}
