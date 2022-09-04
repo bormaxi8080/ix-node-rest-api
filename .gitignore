@@ -3,6 +3,8 @@
 
 InsureX.pem
 
+config.js.bak
+
 # Logs
 logs
 *.log

@@ -23,7 +23,7 @@ const Config = {
             user: 'insurex',
             host: '54.211.135.79',
             database: 'InsureX',
-            password: 'sO0vB7jM6zqO9h3vv',
+            password: '',
             port: 5432
         },
         session: {
@@ -36,7 +36,7 @@ const Config = {
                 },
                 resave: false,
                 saveUninitialized: false,
-                secret: "Gt6XweahhhUWeaXXXxcC2"
+                secret: ""
             }
         },
         redis: {
@@ -59,10 +59,10 @@ const Config = {
             }
         },
         googleDrive: {
-            clientId: "743519130603-eqve9mtljg37r0i4ps8o1msj41mo146j.apps.googleusercontent.com",
-            clientSecret: "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",
+            clientId: "clientid.apps.googleusercontent.com",
+            clientSecret: "",
             redirectURI: "https://developers.google.com/oauthplayground",
-            refreshToken: "1//04-xvYjbXWfJPCgYIARAAGAQSNwF-L9Ir1Tfr4wsTmLI69nsImoRqRyLOM9Chja3jCoG-2gQcj5YZ7ulUXp1nFCaSNuGReL1Q-3g"
+            refreshToken: ""
         },
         logger: {
             level: 'debug',
@@ -71,7 +71,7 @@ const Config = {
             colorize: true
         },
         apiVersion: '2.1.13',
-        secretKey: "vA31e_xHn%4'mn",
+        secretKey: "",
         statementTimeout: 60 * 1000,
         transactionTimeout: 60 * 1000,
         hashPasswords: false,
@@ -91,7 +91,7 @@ const Config = {
             user: 'insurex',
             host: '54.211.135.79',
             database: 'InsureX',
-            password: 'sO0vB7jM6zqO9h3vv',
+            password: '',
             port: 5432,
             timeout: 60 * 1000
         },
@@ -105,7 +105,7 @@ const Config = {
                 },
                 resave: false,
                 saveUninitialized: false,
-                secret: "Gt6XweahhhUWeaXXXxcC2"
+                secret: ""
             }
         },
         redis: {
@@ -128,10 +128,10 @@ const Config = {
             }
         },
         googleDrive: {
-            clientId: "743519130603-eqve9mtljg37r0i4ps8o1msj41mo146j.apps.googleusercontent.com",
-            clientSecret: "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",
+            clientId: "clientid.apps.googleusercontent.com",
+            clientSecret: "",
             redirectURI: "https://developers.google.com/oauthplayground",
-            refreshToken: "1//04-xvYjbXWfJPCgYIARAAGAQSNwF-L9Ir1Tfr4wsTmLI69nsImoRqRyLOM9Chja3jCoG-2gQcj5YZ7ulUXp1nFCaSNuGReL1Q-3g"
+            refreshToken: ""
         },
         logger: {
             level: 'info',
@@ -160,7 +160,7 @@ const Config = {
             user: 'insurex',
             host: '54.211.135.79',
             database: 'InsureX',
-            password: 'sO0vB7jM6zqO9h3vv',
+            password: '',
             port: 5432
         },
         session: {
@@ -173,7 +173,7 @@ const Config = {
                 },
                 resave: false,
                 saveUninitialized: false,
-                secret: "Gt6XweahhhUWeaXXXxcC2"
+                secret: ""
             }
         },
         redis: {
@@ -196,10 +196,10 @@ const Config = {
             }
         },
         googleDrive: {
-            clientId: "1026897205134-o42r7hi89a30pr5dv1gslcm3254d0miv.apps.googleusercontent.com",
-            clientSecret: "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",
+            clientId: "clientid.apps.googleusercontent.com",
+            clientSecret: "",
             redirectURI: "https://developers.google.com/oauthplayground",
-            refreshToken: "1//04iBt-AG3oy7XCgYIARAAGAQSNwF-L9IrH5xsvdVbAu3dJOtncS-RH3CYMN_97CO94QleCjAtgfVq-bVEGB8jvnqgzkbCAKAJoP4"
+            refreshToken: ""
         },
         logger: {
             level: 'info',
@@ -208,7 +208,7 @@ const Config = {
             colorize: false
         },
         apiVersion: '2.1.3',
-        secretKey: "vA31e_xHn%4'mn",
+        secretKey: "",
         statementTimeout: 60 * 1000,
         transactionTimeout: 60 * 1000,
         hashPasswords: false,

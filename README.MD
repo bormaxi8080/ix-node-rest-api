@@ -1,5 +1,7 @@
 # Welcome to InsureX backend server!
 
+This a copy ofREST API project that I work using AWS, Google API, Node.js, Express, PostgreSQL, Swagger and other technology stack.
+
 ## GitHub Repositories
 
 Backend:
